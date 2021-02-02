@@ -21,25 +21,17 @@ My college name is **Andhra Loyola College**
 # create a link
 the syntax for create a link markdown [text](url)
 Ex:[GDB](https://www.onlinegdb.com/#)
-
-The syntax for create a link markdown [Image](url)
-Ex:[Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1494548162494-384bba4ab999%3Fixid%3DMXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGF3bnxlbnwwfHwwfA%253D%253D%26ixlib%3Drb-1.2.1%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdawn&tbnid=a9B7raWE3PxoBM&vet=12ahUKEwjV5rPG6cruAhVdxHMBHVJLAcIQMygCegUIARDXAQ..i&docid=ezcoKoowmsJC7M&w=1000&h=1000&q=images&ved=2ahUKEwjV5rPG6cruAhVdxHMBHVJLAcIQMygCegUIARDXAQ)
-
-# Insert iamge
-![alt MyImage](Image.jpg)
-
-# Insert a code
-Explain about sum of two numbers using python.
-
-    a = 4
-    b = 6
-    c = a + b
-    print("The Sum of {} and {} is {}".format(a,b,c))
-
 # create a table
 s.no|s.name|s.marks
 --|---------|--------
 1|Bhuvaneswar| 100
 2|anand|100
 3|hemanth|100
-4| Venkatesh|100
+# image 
+[SPB](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2F76178234.cms&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fentertainment%2Ftamil%2Fmovies%2Fnews%2Fhappy-birthday-sp-balasubramaniam-five-interesting-unknown-facts-about-the-fabulous-singer%2Fphotostory%2F76177996.cms&tbnid=eudOijbVGpYZLM&vet=12ahUKEwin07K86cruAhVQcX0KHRyeALQQMygDegUIARCwAQ..i&docid=GHqTm1BFFRfPsM&w=1200&h=900&q=spb%20images&hl=en&ved=2ahUKEwin07K86cruAhVQcX0KHRyeALQQMygDegUIARCwAQ)
+# code
+      a=4
+      b=4
+      c=a+b
+      print(c)
+ 
