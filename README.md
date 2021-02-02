@@ -24,6 +24,6 @@ Ex:[GDB](https://www.onlinegdb.com/#)
 # create a table
 s.no|s.name|s.marks
 --|---------|--------
-1|bhudda|85
+1|Bhuvaneswar| 100
 2|anand|100
-3|hemaNth|70
+3|hemanth|100
