@@ -5,8 +5,8 @@
 java is oops programming language invented by games gosling
 # what are the oops concepts in java
 * class and object
- * class
-  * object
+  * class
+    * object
 * inheritence
 * abstraction
 * polymorphism
